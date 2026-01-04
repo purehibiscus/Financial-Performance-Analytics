@@ -78,7 +78,9 @@ _Measures	| Centralized DAX layer
 
 **Model Diagram (Conceptual)**
 
-yaml
+yaml diagram
+
+
                  Dim_Date
                     |
                     |
