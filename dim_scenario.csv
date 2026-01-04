@@ -1,0 +1,5 @@
+Scenario_Key,scenario_Name,Scenario_Type,Is_Actual,Is_Plan,Scenario_Sort_Order,Is_Active,Created_Date
+1,Actual,Actual,TRUE,FALSE,1,TRUE,2026-01-03 17:57
+2,Budget,Planning,FALSE,TRUE,2,TRUE,2026-01-03 17:57
+3,Forecast,Planning,FALSE,TRUE,3,TRUE,2026-01-03 17:57
+4,Prior Year Actual,Actual,TRUE,FALSE,4,FALSE,2026-01-03 17:57
