@@ -2,9 +2,11 @@
 Budget vs Actuals | Time Intelligence | GAAP-Aligned Power BI Model
 
 **Author:** Abbas Nadani
-**Role Target:** Power BI Specialist / Finance BI Analyst
+
 **Tools:** Power BI, DAX, Power Query (M), CSV
+
 **Model Type:** Star Schema (Finance-grade)
+
 
 **Executive Summary**
 
@@ -37,7 +39,7 @@ The solution is designed to scale across entities, time periods, and financial s
 
 **Solution Overview**
 
-**What Was Built**
+**What I Built**
 
 1. Star schema financial model
 2. Separate Actuals and Budget fact tables
@@ -176,11 +178,11 @@ SWITCH (
 
 **Security & Governance**
 
-**Row-Level Security (Demo)**
+**Row-Level Security**
 
 1. Entity-based access
 2. Easily extendable to email-based RLS
-3. Demonstrates security awareness even in portfolio work
+3. Applied to demonstrate data security awareness
 
 **Dashboard Design**
 
@@ -211,7 +213,7 @@ SWITCH (
   i. Rows: Statement → Section → Subsection
   ii. Columns: Actual | Budget | Variance | %
 
-Audience: CFO, Finance Leadership
+Stakeholders: CFO, Finance Leadership
 
 
 **Dashboard Page 2 – Variance Drivers & Trends**
@@ -237,7 +239,7 @@ Audience: CFO, Finance Leadership
 4. Heatmap / Conditional Matrix:
   i. Variance Status by Month
 
-Audience: FP&A, Operations Leaders
+Stakeholders: FP&A, Operations Leaders
 
 
 **Key Insights Enabled**
