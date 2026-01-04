@@ -1,11 +1,19 @@
 # Financial-Performance-Analytics
+
 Budget vs Actuals | Time Intelligence | GAAP-Aligned Power BI Model
+
+
+
 
 **Author:** Abbas Nadani
 
 **Tools:** Power BI, DAX, Power Query (M), CSV
 
 **Model Type:** Star Schema (Finance-grade)
+
+
+
+
 
 
 **Executive Summary**
